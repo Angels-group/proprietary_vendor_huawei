@@ -22,8 +22,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8860/proprietary/bin/rild:system/bin/rild \
     vendor/huawei/u8860/proprietary/etc/bluetooth/BCM4330.hcd:system/etc/bluetooth/BCM4330.hcd \
     vendor/huawei/u8860/proprietary/etc/fw_4330_b2.bin:system/etc/fw_4330_b2.bin \
-    vendor/huawei/u8860/proprietary/lib/109808/libcm.so:system/lib/109808/libcm.so \
-    vendor/huawei/u8860/proprietary/lib/2030/libcm.so:system/lib/2030/libcm.so \
+	vendor/huawei/u8860/proprietary/lib/libcm.so:system/lib/libcm.so \
     vendor/huawei/u8860/proprietary/lib/libauth.so:system/lib/libauth.so \
     vendor/huawei/u8860/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
     vendor/huawei/u8860/proprietary/lib/libdsm.so:system/lib/libdsm.so \
