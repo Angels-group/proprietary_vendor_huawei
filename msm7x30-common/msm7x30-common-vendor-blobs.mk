@@ -87,7 +87,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm7x30-common/proprietary/lib/liboem_rapi.so:system/lib/liboem_rapi.so \
     vendor/huawei/msm7x30-common/proprietary/lib/libOmxAacDec.so:system/lib/libOmxAacDec.so \
     vendor/huawei/msm7x30-common/proprietary/lib/libOmxAacEnc.so:system/lib/libOmxAacEnc.so \
-    vendor/huawei/msm7x30-common/proprietary/lib/libOmxAc3HwDec.so:system/lib/libOmxAc3HwDec.so \
     vendor/huawei/msm7x30-common/proprietary/lib/libOmxAdpcmDec.so:system/lib/libOmxAdpcmDec.so \
     vendor/huawei/msm7x30-common/proprietary/lib/libOmxAmrDec.so:system/lib/libOmxAmrDec.so \
     vendor/huawei/msm7x30-common/proprietary/lib/libOmxAmrEnc.so:system/lib/libOmxAmrEnc.so \
